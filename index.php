@@ -8,7 +8,7 @@
 <body>
     <H1>
     <?php
-    echo "Hello World!!! Ini adalah halaman php";
+    echo "Hello World!!! Ini adalah halaman php ";
     ?>
     </H1>
     
